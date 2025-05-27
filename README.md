@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android application development with a focus on performance, usability, and scalability<br>🌱 I’m enhancing my skills in Jetpack Compose, Kotlin, Java and modern Android development practices<br>💡 My focus is on building robust, user-friendly, and maintainable mobile apps<br>🚀 I’m excited about leveraging mobile technologies and integrating backend services to create impactful Android experiences<br>📫 Bana nasıl ulaşılır: mertramazanemek@gmail.com
+🔭 I’m currently working on Android application development with a focus on performance, usability, and scalability<br>🌱 I’m enhancing my skills in Jetpack Compose, Kotlin, Java and modern Android development practices<br>💡 My focus is on building robust, user-friendly, and maintainable mobile apps<br>🚀 I’m excited about leveraging mobile technologies and integrating backend services to create impactful Android experiences<br>E-mail: mertramazanemek@gmail.com
 
 
 ## 🌐 Socials:
